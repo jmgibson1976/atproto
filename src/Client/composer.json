@@ -1,0 +1,27 @@
+{
+    "name": "atproto/client",
+    "description": "The AT Protocol Client package",
+    "license": "MIT",
+    "readme": "README.md",
+    "homepage": "https://github.com/jmgibson1976/atproto",
+    "support": {
+        "issues": "https://github.com/jmgibson1976/atproto/issues",
+        "source": "https://github.com/jmgibson1976/atproto"
+    },
+    "authors": [
+        {
+            "name": "Jeremy M. Gibson",
+            "email": "jeremy@jeremymgibson.dev"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Atproto\\Client\\": ""
+        }
+    },
+    "require": {},
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}

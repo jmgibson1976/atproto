@@ -2,7 +2,10 @@
 /node_modules
 /storage/*.key
 /vendor
+composer.lock
 .phpunit.result.cache
 /.fleet
 /.idea
 /.vscode
+.DS_Store
+Thumbs.db
