@@ -1,0 +1,17 @@
+{
+    "name": "jmgibson1976/atproto",
+    "description": "An AT Protocol SDK for PHP",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jmgibson1976\\Atproto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeremy M. Gibson",
+            "email": "jeremy@jeremymgibson.dev"
+        }
+    ],
+    "require": {}
+}
