@@ -1,0 +1,42 @@
+{
+    "name": "jmgibson1976/atproto",
+    "description": "An AT Protocol SDK for PHP",
+    "keywords": [
+        "library",
+        "sdk",
+        "atprotocol",
+        "atproto"
+    ],
+    "license": "MIT",
+    "readme": "README.md",
+    "homepage": "https://github.com/jmgibson1976/atproto",
+    "support": {
+        "issues": "https://github.com/jmgibson1976/atproto/issues",
+        "source": "https://github.com/jmgibson1976/atproto"
+    },
+    "authors": [
+        {
+            "name": "Jeremy M. Gibson",
+            "email": "jeremy@jeremymgibson.dev",
+            "homepage": "https://jeremymgibson.dev"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Atproto\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Atproto\\Tests\\": "tests/"
+        }
+    },
+    "require": {},
+    "require-dev": {},
+    "suggest": {},
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
